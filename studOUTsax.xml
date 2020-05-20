@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<student lastname="poleshuk">
+<subject mark="4" title="matan"/>
+<subject mark="3" title="linal"/>
+<subject mark="4" title="istoria"/>
+<subject mark="4" title="java"/>
+<subject mark="5" title="fizika"/>
+<average>4.0</average>
+</student>
